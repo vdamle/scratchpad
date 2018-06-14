@@ -2,7 +2,7 @@
 
 Notes on setting up my development environment
 
-* Linux
-* Tmux
-* Vim
+* Linux [linux.md]
+* Tmux [tmux.md]
+* Vim [vim.md]
 * Config files
