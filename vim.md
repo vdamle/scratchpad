@@ -6,3 +6,10 @@ Regex/pattern matching
 - \( \) - remember the pattern between () as a back reference:
   ex: :%s/\([^,]*\), \([^,]*\)/\2 \1/
      Search any occurence of {word1, word2} and replace with {word2 word1}
+     
+Ctags for JS
+-------------
+https://github.com/majutsushi/tagbar/wiki#javascript
+
+https://github.com/ramitos/jsctags
+
